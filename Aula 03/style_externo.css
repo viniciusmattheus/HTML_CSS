@@ -1,0 +1,18 @@
+body { /*Cor do fundo da página */
+    background-color: rgb(31, 78, 61);
+    }
+
+h1 { /*Cor e margem do Título*/
+    color: red;
+    margin-left: 100px;
+    }
+
+p { /*Cor e margem do Parágrafo*/
+    color: black;
+    margin-left: 225px;
+    }
+
+h2 { /*Cor e margem do Sub-Titulo h2*/
+    color: blue;
+    margin-left: 150px;
+    }
